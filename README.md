@@ -1,6 +1,6 @@
 # TrackTik Back-End Challenge
 
-## How it was thought?
+## How was it organized?
 
 ### Folder Structure
 
